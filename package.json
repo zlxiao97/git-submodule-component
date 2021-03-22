@@ -1,0 +1,15 @@
+{
+  "name": "git-submodule-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:2552895864/git-submodule-component.git",
+  "author": "TadXiao <zlxiao97@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@antv/g2": "^4.1.13",
+    "classnames": "^2.2.6",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "uuid": "^8.3.2"
+  }
+}
